@@ -13,9 +13,11 @@
 
 5. <b>Image Classification </b> In this project, a convolutional neural network is implemented to classify images from the CIFAR-10 dataset. <b> <i> DataSet Used: <a href ="https://www.cs.toronto.edu/~kriz/cifar.html" > CIFAR-10 Dataset </a></i></b>
 
+6. <b> Train a Smart Cab to Drive </b> In this project, reinforcement learning techniques are applied for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
+
 <b>Capstone Project </b>
 
-6. <b> Quora: Identifying Questions with same intent </b> In this project, a binary classification model is build using a simulated dataset containing a pair of questions and a binary class label stating whether a pair is duplicate or not to identify whether a question pair is duplicate or not.  <b> <i> DataSet Used: <a href ="https://www.kaggle.com/quora/question-pairs-dataset" > Kaggle : Quora - Questions  Dataset</a></i></b>
+7. <b> Quora: Identifying Questions with same intent </b> In this project, a binary classification model is build using a simulated dataset containing a pair of questions and a binary class label stating whether a pair is duplicate or not to identify whether a question pair is duplicate or not.  <b> <i> DataSet Used: <a href ="https://www.kaggle.com/quora/question-pairs-dataset" > Kaggle : Quora - Questions  Dataset</a></i></b>
 
 
 
