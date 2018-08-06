@@ -1,5 +1,10 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
+### Project Overview
+
+In this project unsupervised learning techniques are applied on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
+
+The dataset used is taken from UCI ML Repository [UCI wholeshale Dataset] (https://archive.ics.uci.edu/ml/datasets/Wholesale+customers).
 
 ### Install
 
