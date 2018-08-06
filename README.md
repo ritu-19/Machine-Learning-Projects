@@ -1,6 +1,6 @@
-# Udacity_ML_Nanodegree
+# Machine Learning Projects
 
-<b>Projects Covered under the Udacity's Machine Learning Curriculum:</b>
+<b>Projects Covered:</b>
 
 1. <b>Finding Donors for CharityML: </b> In this project, supervised learning techniques and an analytical mind is applied on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
  <b><i> DataSet Used: <a href = "https://archive.ics.uci.edu/ml/datasets/Census+Income" > UCI Census Income </a></i></b>
