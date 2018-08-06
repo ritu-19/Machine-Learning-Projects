@@ -1,5 +1,8 @@
 ## Project: Titanic Survival Exploration
 
+### Project Overview
+This project is aimed at creating decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger's features. Basically, a subset of the RMS Titanic passenger manifest is explored to determine which features best predict whether someone survived or did not survive. 
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
