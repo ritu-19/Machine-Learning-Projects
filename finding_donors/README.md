@@ -1,6 +1,10 @@
 # Content: Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Project Overview
+
+This project is aimed at performing analysis and developing certain supervised learning techniques on the data collected for the U.S. census to help a certain organisation identify people most likely to sonate to their cause.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
