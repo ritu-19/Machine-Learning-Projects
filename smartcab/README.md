@@ -4,7 +4,7 @@
 ### Project Overview
 
 In this project reinforcement learning techniques are applied for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
-Applied Q-Learning algorithm to find the best configuration of learning and exploration factors to ensure the self-driving agent is reaching its destinations with consistently positive results . 
+Q-Learning algorithm is apllied to find the best configuration of learning and exploration factors to ensure the self-driving agent is reaching its destinations with consistently positive results . 
 
 ### Install
 
